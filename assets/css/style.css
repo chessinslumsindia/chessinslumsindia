@@ -7241,6 +7241,12 @@ a.text-dark:hover, a.text-dark:focus {
     .section-title {
       font-size: 38px; } }
 
+.section-small-title {
+  font-size: 30px; }
+  @media (max-width: 767px) {
+    .section-small-title {
+      font-size: 26px; } }
+
 .section-text-ct {
   font-family: 'Crimson Text', serif;
   font-size: 22px;
