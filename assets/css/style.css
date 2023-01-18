@@ -7658,7 +7658,7 @@ html {
   padding-bottom: 70px; }
   @media (min-width: 768px) {
     .projects-section .project-column-indented {
-      padding-top: 66px; } }
+      padding-top: 1px; } }
 
 .project-card {
   margin-bottom: 36px; }
