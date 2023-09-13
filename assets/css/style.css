@@ -7947,6 +7947,10 @@ html {
   line-height: 1.54;
   color: #312c2c; }
 
+.footer {
+  background-color: #000;
+}  
+
 .blog-sidebar .widget-posts .blog-post {
   margin-bottom: 27px; }
   .blog-sidebar .widget-posts .blog-post .post-thumbnail {
